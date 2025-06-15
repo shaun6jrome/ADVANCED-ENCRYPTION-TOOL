@@ -69,3 +69,7 @@ Use Cases
 
 Conclusion
 The Advanced Encryption Tool is a practical demonstration of applying cryptographic techniques in real-world scenarios. It empowers users to take control of their data security by providing a simple yet powerful way to encrypt and decrypt files using AES-256. This project not only showcases programming and cybersecurity skills but also raises awareness about the importance of data protection in the digital era.
+
+
+<img width="955" alt="Image" src="https://github.com/user-attachments/assets/716c4ab1-349c-4266-b597-99ac797b7108" />
+<img width="929" alt="Image" src="https://github.com/user-attachments/assets/fa720867-2d23-4807-9757-baa95402d7c9" />
